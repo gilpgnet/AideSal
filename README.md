@@ -1,2 +1,4 @@
-# Asal
-Ejemplo simple de procesamiento en Android. Usa AIDE IDE.
+# AideSal
+App sencilla para AIDE IDE que realiza procesamiento en Android.
+
+Es la versión para AIDE IDE de https://github.com/gilpgnet/Asal.
